@@ -11,4 +11,4 @@ script 9 = supprime le dossier my_first_directory qui est dans tmp
 script 10 =
 script 11 = script qui répertorie tou les fichiers même ceux qui commence par (.) ainsi que ceux qui sont masqués, dans le répertoire courant et le parents du répertoire de travail et le répertoire /boot
 script 12 = script qui imprime le type de fichier nommé iamafile qui est dans le répertoire tmp lorsque nous léxécuterons
-script 13 =
+script 13 = créer un lien symbolique nommé __ls__
