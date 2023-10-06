@@ -6,4 +6,5 @@ script 4 = affiche les fichiers cachés et en long format
 script 5 = affiche le contenu du répertoire actuel au format long avec l'ID utilisateur numériquementet avec les fichiers cachés
 script 6 = créer un répertoire dans un autre répertoire
 script 7 = déplace le fichier betty qui vient de tmp dans le dossier tmp my first directory
-script 8 = 
+script 8 = supprimer le fichier betty qui est dans tmp my_first_directory
+script 9 = 
