@@ -7,4 +7,4 @@ script 5 = affiche le contenu du répertoire actuel au format long avec l'ID uti
 script 6 = créer un répertoire dans un autre répertoire
 script 7 = déplace le fichier betty qui vient de tmp dans le dossier tmp my first directory
 script 8 = supprimer le fichier betty qui est dans tmp my_first_directory
-script 9 = 
+script 9 = supprime le dossier my_first_directory qui est dans tmp
