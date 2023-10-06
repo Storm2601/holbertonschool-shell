@@ -12,3 +12,7 @@ script 10 =
 script 11 = script qui répertorie tou les fichiers même ceux qui commence par (.) ainsi que ceux qui sont masqués, dans le répertoire courant et le parents du répertoire de travail et le répertoire /boot
 script 12 = script qui imprime le type de fichier nommé iamafile qui est dans le répertoire tmp lorsque nous léxécuterons
 script 13 = créer un lien symbolique nommé __ls__
+script 14 = script qui copie tous les fichiers html du répertoire actuel vers leparents du répertoire de travail, mais qui copie uniquement les fichiers qui n'existaient pas dans le répertoire de travail ou qui sont plus récent que les autres versionsdu répertoire de travail parents direct
+script 15 =
+script 16 =
+script 17 =
