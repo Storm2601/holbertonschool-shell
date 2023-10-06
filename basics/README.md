@@ -8,3 +8,6 @@ script 6 = créer un répertoire dans un autre répertoire
 script 7 = déplace le fichier betty qui vient de tmp dans le dossier tmp my first directory
 script 8 = supprimer le fichier betty qui est dans tmp my_first_directory
 script 9 = supprime le dossier my_first_directory qui est dans tmp
+script 10 =
+script 11 = script qu répertorie tou les fichiers même ceux qui commence par (.) ainsi que ceux qui sont masqués, dans le répertoire courant et le parents du répertoire de travail et le répertoire /boot
+script 12 = 
