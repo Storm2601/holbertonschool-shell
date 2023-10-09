@@ -1,2 +1,2 @@
 #!/bin/bash
-chown "Vincent:group" "staff"
+sudo chown --from=vincent_staff
