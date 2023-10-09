@@ -14,5 +14,5 @@ script 12 = script qui imprime le type de fichier nommé iamafile qui est dans l
 script 13 = créer un lien symbolique nommé __ls__
 script 14 = script qui copie tous les fichiers html du répertoire actuel vers leparents du répertoire de travail, mais qui copie uniquement les fichiers qui n'existaient pas dans le répertoire de travail ou qui sont plus récent que les autres versionsdu répertoire de travail parents direct
 script 15 = déplace tous es fichiers et répertoires commancant par une lettre majuscule dans le répertoire /tmp/u
-script 16 =
-script 17 =
+script 16 = script qui supprime tous les fichiers avec les vaguelettes
+script 17 = script qui permet de créer un ou plusieurs dossiers 
