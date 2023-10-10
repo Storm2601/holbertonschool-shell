@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find / -vincent guillaume 'hello' chown vincent .
+sudo chown vincent ./-hello
