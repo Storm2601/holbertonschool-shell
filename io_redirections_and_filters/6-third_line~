@@ -1,2 +1,0 @@
-#!/bin/bash
-type iacta | more /+2
