@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d "A""c" | "Z""e"Remplacez tous les caractères A et c de l’entrée à Z et e respectivement.
+tr "A" "Z" | tr "c" "e"
