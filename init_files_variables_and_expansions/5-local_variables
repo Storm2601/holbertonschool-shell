@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $printenv | declare | DIR_APPLI
+echo "$printenv | declare | DIR_APPLI"
